@@ -3,6 +3,7 @@
 #include "UnrealSTLFunctionLibrary.h"
 #include "Misc/FileHelper.h"
 #include "StaticMeshResources.h"
+#include "MaterialDomain.h"
 
 namespace UnrealSTL
 {
